@@ -50,7 +50,6 @@ function clickNow(round, correct) {
   }
 }
 
-
 //启用按键监听
 events.observeKey();
 events.onKeyDown("volume_down", function(event){
